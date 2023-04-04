@@ -171,7 +171,7 @@ sns.boxplot(x="height",data=df5)
  ![](output9.png)
 
  #### price_per_sqft - Shape of Dataset after removing outliers :
- ![](output10.png)
+ ![]
 
  #### Box Plot of price_per_sqft column without outliers:
  ![](output11.png)
