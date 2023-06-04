@@ -1,3 +1,7 @@
+https://github.com/Dinesh7318/Ex02-Outlier.git
+
+https://colab.research.google.com/drive/1stVl6PFIwW8wT4OvJLedbki8EuxmOZLH?usp=sharing
+
 # Ex02-Outlier
 
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
